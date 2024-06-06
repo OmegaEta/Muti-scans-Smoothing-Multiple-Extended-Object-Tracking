@@ -1,5 +1,5 @@
 # Extended-Target-PMBM-Tracker
-MATLAB implementation of the extended target PMBM tracker based on sets of trajectories
+MATLAB implementation of the Muti-scans-Smoothing PMBM tracker based on sets of trajectories
 
 This repository contains the Matlab implementations of the Extended target Poisson multi-Bernoulli mixture (PMBM) tracker proposed in 
 
