@@ -3,6 +3,12 @@ MATLAB implementation of the Muti-scans-Smoothing PMBM tracker based on sets of 
 
 This repository contains the Matlab implementations of the Extended target Poisson multi-Bernoulli mixture (PMBM) tracker proposed in 
 
+The complete filter is the implementation of the paper：
+A GGIW PMBM Smoother for Multiple Extended Object Tracking
+Wenhui Wang, Ye Xu, Kejie Zhang, YouPeng Sun, Peng Li
+First published: 22 February 2025 https://doi.org/10.1049/ell2.70188Digital Object Identifier (DOI)
+
+Based on the following filter implementation：
 Xia, Y., Granström, K., Svensson, L., García-Femández, Á. F. & Williams, J (2019, July). Extended Target Poisson multi-Bernoulli Mixture Trackers Based on Sets of Trajectories. In 2019 22nd International Conference on Information Fusion (FUSION) IEEE.
 
 Full text will be available soon.
